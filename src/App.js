@@ -1,6 +1,5 @@
 import React from "react";
 import pokemon from "./pokemon.json";
-import PropTypes from 'prop-types';
 import "./App.css";
 
 const PokemonRow = ({ pokemon, onSelect }) => (
